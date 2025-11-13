@@ -32,6 +32,8 @@ body {
   display: inline-block;
   background-color: #4e0b68;
   color: rgb(211, 169, 232);
+  height: 50px;
+  width: 100px;
   padding: 15px;
   margin: 2px;
   text-decoration: none;
