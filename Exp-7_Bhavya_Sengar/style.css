@@ -1,0 +1,55 @@
+body {
+  font-family: Tim;
+  margin: 20px;
+}
+
+
+
+.block-menu a {
+  display: block;
+  background-color: #043d63;
+  color: white;
+  padding: 15px;
+  margin: 2px 0;
+  text-decoration: none;
+}
+
+
+
+.inline-menu a {
+  display: inline;
+  background-color: #c0edfc;
+  color: rgb(24, 11, 120);
+  padding: 15px;
+  margin: 2px;
+  text-decoration: none;
+}
+
+
+
+
+.inline-block-menu a {
+  display: inline-block;
+  background-color: #4e0b68;
+  color: rgb(211, 169, 232);
+  padding: 15px;
+  margin: 2px;
+  text-decoration: none;
+}
+
+
+
+.float-menu a {
+  float: left;
+  background-color: #422103;
+  color: rgb(232, 183, 153);
+  padding: 15px 15px;
+  margin: 4px;
+  text-decoration: none;
+}
+
+
+
+.clear {
+  clear: both;
+}
